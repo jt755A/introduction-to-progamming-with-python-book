@@ -1,0 +1,4 @@
+print(''' King Arthur: "What is your quest?"
+Black Knight: "I have no quarrel with you,
+               but I must cross this bridge."
+''')
