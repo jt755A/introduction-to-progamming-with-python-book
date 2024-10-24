@@ -1,0 +1,5 @@
+# '12' < '9' results in True. Because of the 
+# single quotes, '12' and '9' are strings. 
+# Strings are compared character by character
+# (lexicographically), from left to right.
+# Since 1 is less than 9, python returns True.

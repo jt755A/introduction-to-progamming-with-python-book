@@ -1,0 +1,5 @@
+# 'foo' == 'Foo' results in False.
+# Upper and lower cases are not equivalent:
+# Upper cases characters are always less than lower case
+# characters. E.g. 'A' < 'a' is True. 
+# Can be confirmed by looking at ASCII tables.

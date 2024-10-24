@@ -1,0 +1,6 @@
+# Yes, accessing a list element with elemenet greater
+# than or equal to the list's length will cause an
+# IndexError error. "list index out of range" is shown.
+# The maximum index number that can be accessed
+# is 1 less than length of list.
+# i.e. len(examplelist) minus 1.

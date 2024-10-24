@@ -1,0 +1,5 @@
+# int('3.1415') will cause an error.
+# Because of the single quotes '',
+# the input is a text string.
+# the int function only accepts numbers
+# as inputs
