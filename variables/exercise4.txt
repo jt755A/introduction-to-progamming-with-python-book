@@ -1,0 +1,10 @@
+# Classify the following potential class names as idiomatic, non-idiomatic, or illegal.
+# For the non-idiomatic and illegal names, explain your choice.
+
+# index: non-idiomatic: should be PascalCase (uses variable convention)
+# CatName: idiomatic
+# Lazy_Dog: non-idiomatic: uses underscore (LazyDog would be idiomatic)
+# 1ST: illegal - can't start with digit
+# operand2: non-idiomatic - should be PascalCase
+# BigNumber3: idiomatic
+# Πi: non-idiomatic - uses Unicode 

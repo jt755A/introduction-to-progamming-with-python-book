@@ -1,0 +1,11 @@
+# Classify the following potential constant names as idiomatic, non-idiomatic, or illegal.
+# For the non-idiomatic and illegal names, explain your choice.
+
+#index: non-idiomatic: Should be SCREAMING_SNAKE_CASE
+#CatName: non-idiomatic (Class name convention shown). Should be UPPER CASE
+#snake_case non-idiomatic: uses variable convention: should be uppercase
+#LAZY_DOG3: idiomatic
+#1ST: illegal - can't start with digit.
+#operand2: non-idiomatic - should be UPPERCASE
+#BIG_NUMBER: idiomatic
+#Π: non-idiomatic - extended symbol code

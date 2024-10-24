@@ -1,0 +1,9 @@
+# index = idiomatic: not a python argument name. Lowercase
+# CatName = non-idiomatic: Shouldn't use uppercase letters (PascalCase). 
+# Should be lower
+#lazy_dog: idiomatic. Lowercase, uses underscore
+#quick_Fox: non-idiomatic: all words should be lowercase
+# 1stChaacter: illegal: first character can't be digit
+# operand2: idiomatic: lowercase and digit
+# BIG_NUMBER: non-idiomatic: uses Constant naming convention
+# [pi symbol]: non-idiomatic: uses symbol not in standard ASCII set

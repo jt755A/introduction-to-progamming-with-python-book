@@ -1,0 +1,10 @@
+# It will print:
+# 'Good Morning, Victor'
+# 'Good Afternoon, Victor'
+# 'Good Evening, Victor'
+# 'Good Morning, Nina'
+# 'Good Afternoon, Nina'
+# 'Good Evening, Nina'
+
+# the function NAME has been reassigned to 'Nina'. (The variable is bound to a new object)
+# The above is wrong: NAME suggests a constant, so it's bad practice to change it.
