@@ -11,9 +11,9 @@ print(f'{first_number} * {second_number} = {product}') #
 
 
 # multiply: global
-# left, right: global
+# left, right: global EDIT: these are local
 # get_num: global
-# prompt: global
+# prompt: global # this is local
 # float = built-in
 # input = built-in
 # first_number = global

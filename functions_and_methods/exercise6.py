@@ -5,4 +5,4 @@ def scream(words):
 
 scream('Yipeee')
 
-#prints nothing? return in line 3 ends function. Line 4 is ignored.
+#prints nothing return in line 3 ends function. Line 4 is ignored.

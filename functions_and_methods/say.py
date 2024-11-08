@@ -1,4 +1,4 @@
-def say():
+#def say():
     """
     The say function prints "Hi!"
     """

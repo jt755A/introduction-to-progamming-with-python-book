@@ -10,4 +10,4 @@ def conditional_caps(text):
     else:
         return text
     
-# print(conditional_caps('hello world')) 
+# print(conditional_caps('hello world'))    

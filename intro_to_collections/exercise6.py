@@ -5,4 +5,4 @@ pi = 3.141592
 
 str_pi = str(pi)
 
-# str_pi = f'{pi}'
+#OR  str_pi = f'{pi}'

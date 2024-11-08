@@ -10,4 +10,4 @@ product = multiply(first_number, second_number) # product, multiply, first_numbe
 print(f'{first_number} * {second_number} = {product}') # first_number, second_number, product
 
 
-# EDIT print, float are also.
+# EDITprint, float are also.
